@@ -1,3 +1,5 @@
+// Using old js split method.
+
 function wrap(str) {
  
     return str.split();
@@ -9,7 +11,7 @@ function wrap(str) {
  }
 
 
- // using ES6
+ // using ES6 Destructuring
 
  function unwrap(str) {
    const [result] = str;

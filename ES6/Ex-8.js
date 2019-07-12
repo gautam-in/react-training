@@ -8,6 +8,7 @@ const person = {
         city: 'Gurgaon', state: 'Haryana' } 
     }
 
+// Function - Destructuring.
 function extractValue(personObj) {
     const {address: {lines: [value1, value2, value3]}} = personObj;
     return value2
