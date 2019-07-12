@@ -10,7 +10,6 @@ function callback() {
   
 console.log(myFn(callback))
   
-
 // Using ES6 arrow function
 
 const  myFn = callback => {

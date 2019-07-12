@@ -1,4 +1,3 @@
-
 // Print matrix of 10 X 10 with value null.
 
 var matrix = [];

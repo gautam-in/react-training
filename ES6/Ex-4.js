@@ -1,5 +1,4 @@
 // Write a function that calculates the prices after tax calculation for each price element in the prices array.
-//  
 
 // As a sum
 var result = prices.reduce((acc, val) => { 

@@ -1,4 +1,3 @@
-
 // Create an array that contains the last four characters of another array
 
 var arr1 = [1,2,3,4,5];
