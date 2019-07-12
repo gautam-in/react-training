@@ -7,6 +7,15 @@ function wrap(str) {
  
     return str.join();
  }
+
+
+ // using ES6
+
+ function unwrap(str) {
+   const [result] = str;
+   return result;
+}
+
  
  console.log(wrap('Hello'));
  
