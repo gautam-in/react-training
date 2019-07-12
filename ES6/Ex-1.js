@@ -8,7 +8,7 @@ function ListNumbersDivByThree(arr) {
   });
 
 } 
-console.log(ListNumbersDivByThree(array));
+//console.log(ListNumbersDivByThree(array));
 
 
 // using es6
