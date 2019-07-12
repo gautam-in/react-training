@@ -13,4 +13,3 @@ const meta =
 const { title: doc, authors: [ {firstname: name}], publisher: { url: web} } = meta;
 
 console.log(doc, name, web);
-

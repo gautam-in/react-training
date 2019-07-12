@@ -1,4 +1,3 @@
-
 // Write following code using object literal expression
 
 const first = 'Mohan'; 
@@ -26,3 +25,4 @@ const person = {
   }
   
   console.log(person);
+  
