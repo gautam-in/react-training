@@ -1,6 +1,7 @@
 
 //Write a function that returns all elements of array except first element
 
+//1. using pure javascript
 function returnAllElementsExceptFirst(arr) {
  
     arr.splice(0,1);
@@ -8,7 +9,7 @@ function returnAllElementsExceptFirst(arr) {
     return arr;
    }
 
-   //using ES6
+//2. using destructuring
    
 function returnAllElementsExceptFirst(arr) {
  
