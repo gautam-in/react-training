@@ -1,4 +1,5 @@
 // Pass any object of type config to function which console value of obj.
+
 let config = {
     chartType : 0,
     bullColor : 'green',
